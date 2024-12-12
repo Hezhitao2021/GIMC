@@ -1,0 +1,21 @@
+{
+    "nsubj": "Et nominelt emne (nsubj) er et nominelt emne, som er det syntaktiske emne og protoagenten i en sætning. Det vil sige, at det er i den position, der passerer typisk grammatisk test for emne, og dette argument er den mere agentive, gør-er, eller proto-agenten af sætningen.",
+    "nsubj:pass": "Et passivt nominelt emne er et substantivsætning, som er det syntaktiske emne for en passiv sætning.",
+    "obj": "Genstanden for et verb er det næstmest centrale argument for et verb efter emnet. Typisk er det substantivsætningen, der betegner den enhed, der handles på, eller som undergår en ændring af tilstand eller bevægelse (proto-patienten).",
+    "iobj": "Det indirekte objekt for et verb er enhver nominel sætning, der er et kerneargument i verbet, men ikke er dets emne eller (direkte) objekt.",
+    "csubj": "Et klausalt emne er et klausalt syntaktisk emne i en sætning, dvs. emnet selv er en sætning. Den afhængige er det vigtigste leksikalske verb eller anden prædikat i emnesætningen.",
+    "obl": "Den obl relation bruges til et nominelt (substantiv, stedord, substantivsætning), der fungerer som et ikke-kerne (skrå) argument eller tillæg. Det betyder, at det funktionelt svarer til et adverbial knyttet til et verb, tillægsord eller andet adverb.s",
+    "obl:loc": "Stedsændringsværktøjet er en undertype af obl-relationen: Hvis ændringsværktøjet angiver et sted, er det markeret loc.",
+    "obl:tmod": "En tidsmodifikator er en undertype af obl-relationen: Hvis modifikatoren angiver et tidspunkt, er den mærket som tmod.",
+    "obl:npmod": "Denne relation er en subtype af obl relationen, som fanger tilfælde, hvor et substantivsætning bruges som en adverbial modifikator i en sætning",
+    "dislocated": "Den forskydte relation bruges til fronterede eller postposerede elementer, der ikke opfylder de sædvanlige kerne grammatiske relationer i en sætning. Disse elementer synes ofte at befinde sig i kanten af sætningen, og kan adskilles af med kommaintonation.",
+    "advcl": "En adverbial sætning modifikator er en sætning, der ændrer et verb eller et andet prædikat (adjektiv osv.), som en modifikator ikke som et kernekomplement. Dette omfatter ting som en tidsbestemmelse, konsekvens, betingelsesbestemmelse, formålsbestemmelse osv.",
+    "advmod": "En adverbial modifikator af et ord er et adverb eller adverbial sætning, der tjener til at ændre et prædikat eller et modifikator ord.",
+    "appos": "En tillægsmodifikator af et navneord er et nominelt navneord umiddelbart efter det første navneord, der tjener til at definere, ændre, navngive eller beskrive navneord. Den indeholder parenteserede eksempler, samt definere forkortelser i en af disse strukturer. appos skal anvendes mellem to nominelle kandidater. Generelt, modulo tegnsætning, de to halvdele af en placering kan skiftes.",
+    "acl": "acl står for finite og ikke-finite sætninger, der ændrer et nominelt. Hovedet af acl-relationen er navneordet, der ændres, og den afhængige er hovedet af den sætning, der ændrer navneordet.",
+    "acl:relcl": "En relativ sætningsætning modificerer et nominelt er en sætning, der ændrer det nominelle, mens det nominelle er kerneferential med en bestanddel inde i den relative sætning.",
+    "conj": "En konjunkt er forholdet mellem to elementer forbundet af en koordinerende konjunktion, såsom og, eller, etc.",
+    "list": "Listeforholdet anvendes til kæder af sammenlignelige elementer.",
+    "parataxis": "Parataxis relationen er en relation mellem et ord (ofte den vigtigste prædikat i en sætning) og andre elementer, placeret side om side uden nogen udtrykkelig koordinering, underordning eller argumentrelation med hovedordet. Parataxis er en diskurslignende tilsvarende koordination, og derfor adlyder normalt en ikonisk ordre.",
+    "root": "Den rodgrammatiske relation peger på roden af sætningen. "
+}
