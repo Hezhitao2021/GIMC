@@ -1,4 +1,4 @@
-#GIMC: Zero-Shot Cross-Lingual Document-Level Event Causality Identification
+# GIMC: Zero-Shot Cross-Lingual Document-Level Event Causality Identification
 
 The official implementation of the paper titled [Zero-Shot Cross-Lingual Document-Level Event Causality Identification with Heterogeneous Graph Contrastive Transfer Learning](https://arxiv.org/pdf/2403.02893). 
 
